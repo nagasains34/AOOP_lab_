@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#87CEEB</color>
+    <color name="colorPrimaryDark">#87CEEB</color>
+
+    <color name="water_blue">#005B7F</color>
+    <color name="light_blue">#A4D6E1</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Other colors for the water theme if needed -->
+    <color name="background_light_blue">#E3F2FD</color>
+</resources>
